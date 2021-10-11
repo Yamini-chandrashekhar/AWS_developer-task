@@ -1,9 +1,9 @@
 # AWS_developer-task1
-🔅 Create a key pair 
-🔅 Create a security group 
-🔅 Launch an instance using the above created key pair and security group.
-🔅 Create an EBS volume of 1 GB.
-🔅 The final step is to attach the above created EBS volume to the instance you created in the previous steps.
+1. Create a key pair 
+2. Create a security group 
+3. Launch an instance using the above created key pair and security group.
+4. Create an EBS volume of 1 GB.
+5. The final step is to attach the above created EBS volume to the instance you created in the previous steps.
 
 Amazon Web Services is a cloud computing platform that provides customers with a wide array of cloud services. AWS (Amazon Web Services) is a secured cloud services platform that offers compute power, database storage, content delivery and various other functionalities also.
 
